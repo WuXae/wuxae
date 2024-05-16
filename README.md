@@ -26,11 +26,11 @@ I received training in HTML, CSS, JavaScript, and Python. Currently, I am strivi
 ![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%1f1f1f) 
 ![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue) 
 ![Bootstrap](https://img.shields.io/badge/BootStrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=purple) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jQuery-%23323330.svg?style=for-the-badge&logo=jquery&logoColor=blue) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%1f1f1f) 
 ![LINUX](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%1f1f1f) 
-![Kali](https://img.shields.io/badge/Kali-%23323330.svg?style=for-the-badge&logo=kalilinux&logoColor=blue) 
+![Kali](https://img.shields.io/badge/Kali-%23323330.svg?style=for-the-badge&logo=kalilinux&logoColor=blue)
+![OWASP](https://img.shields.io/badge/OWASP-%23323330.svg?style=for-the-badge&logo=owasp&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=blue)
 
 <br> <br>
